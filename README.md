@@ -5,4 +5,4 @@
  - 🤩 • I'm experimenting with Flutter programming a lot more.
  
 ✉️ You can shoot me an email at _[inuleyasha@gmail.com](mailto:inuleyasha@gmail.com)_! I'll try to respond as soon as I can.
-![https://github.com/inuleyasha](https://raw.githubusercontent.com/inuleyasha/inuleyasha/main/neon-line.gif)
+![https://github.com/inuleyasha](https://github.com/inuleyasha/inuleyasha/blob/391f295e6faebc769c6107aa0878eaaee38dc43d/neon-line.gif)

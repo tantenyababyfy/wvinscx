@@ -1,5 +1,4 @@
  - [x] **About Me:**
- - 👉 • Sanes tiang alim
  - ⚙️ • Mechanical Engineering
  - 🙌 • I'm a translator and tlc for app, manga & anime.
  
